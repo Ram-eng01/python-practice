@@ -15,3 +15,6 @@
 ---------------------------------------
        1: STRING
 ---------------------------------------
+* In Python, a string is a sequence of characters. For example, "hello" is a string containing a sequence of characters 'h', 'e', 'l', 'l', and 'o'.
+
+We use single quotes or double quotes to represent a string in Python. 
