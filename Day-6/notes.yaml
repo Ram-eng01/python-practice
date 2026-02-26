@@ -1,0 +1,10 @@
+---------------------------
+Condition Handlings
+---------------------------
+
+Conditional statements in Python allow you to execute certain code based on the evaluation of a condition. These statements include if, else, and elif (else if). They enable decision-making in your program, where different actions can be taken based on the given conditions.
+	If
+	else
+	elseif
+	nestedif
+
