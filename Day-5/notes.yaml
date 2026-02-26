@@ -1,0 +1,9 @@
+Operators are symbols that perform operations on variables and values. Python supports various types of operators, categorized based on the type of operations they perform.
+Here are the main types of operators in Python:
+1.	Arithmetic: +, -, *, /, //, %, **
+2.	Comparison: ==, !=, >, <, >=, <=
+3.	Logical: and, or, not
+4.	Assignment: =, +=, -=, *=, /=, //=, %=, **=
+5.	Bitwise: &, |, ^, ~, <<, >>
+6.	Identity: is, is not
+7.	Membership: in, not in
