@@ -8,3 +8,42 @@ Conditional statements in Python allow you to execute certain code based on the 
 	elseif
 	nestedif
 
+
+----------------
+ LIST
+ --------------------
+
+ List in Python:
+ 
+List & Tuples
+ 
+A list in Python is a mutable, ordered sequence of elements. Lists can contain elements of different types, and their elements can be modified after creation.
+Characteristics of a List:
+•	Mutable: Elements can be changed, added, or removed.
+•	Ordered: Items have a defined order, and this order will not change unless explicitly modified.
+•	Allows duplicates: Lists can have multiple items with the same value.
+
+
+List Methods:
+-	append(): Add an item to the end of the list.
+-	insert(): Insert an item at a specified index.
+-	remove(): Remove the first item with the specified value.
+-	pop(): Remove an item at a specified index (or the last item if no index is provided).
+-	sort(): Sort the list in place.
+
+
+--------------------
+ Tuples
+-----------------------
+
+A tuple in Python is an immutable, ordered sequence of elements. Like lists, tuples can contain elements of different types, but their elements cannot be modified once the tuple is created.
+Characteristics of a Tuple:
+•	Immutable: Elements cannot be changed after the tuple is created.
+•	Ordered: Items have a defined order.
+•	Allows duplicates: Tuples can contain multiple items with the same value. 
+
+
+Methods in Tuples:
+Since tuples are immutable, they have fewer methods than lists. However, two useful methods are:
+•	count(): Returns the number of times a specified value occurs in a tuple.
+•	index(): Returns the index of the first occurrence of a specified value. 
