@@ -1,0 +1,30 @@
+-------------------------
+   LOOPS
+-------------------------
+
+Loops in Python allow you to execute a block of code repeatedly, either for a specified number of times or while a certain condition is true. Python provides two main types of loops: for loops and while loops.
+
+1: for Loop:
+
+ A for loop in Python is used to iterate over a sequence (such as a list, tuple, string, or range) and execute a block of code for each element in the sequence.
+Syntax:
+for variable in sequence: 
+# Code to execute in each iteration
+
+
+2: while Loop:
+
+A while loop repeats as long as a specified condition is True. It is useful when the number of iterations is not predetermined.
+Syntax:
+while condition:
+# Code to execute while the condition is true
+
+
+
+
+----
+
+break and continue Statements
+
+	The break statement: is used to exit the loop prematurely, even if the condition for the loop has not become False.
+	The continue statement: skips the current iteration and proceeds to the next iteration of the loop.
