@@ -13,3 +13,11 @@ def list_files():
             print(file)
 
 list_files()
+
+
+#Steps:
+#-	Taking the user input using input()
+#-	Listing the files & folders using the for loop
+#-	Using OS module
+#-	Print the output
+#-	Handling the known errors using try & except 
