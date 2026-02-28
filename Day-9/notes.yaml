@@ -1,0 +1,20 @@
+A dictionary in Python is a data structure that allows you to store and retrieve values using key-value pairs. Each key in the dictionary must be unique and immutable (such as strings, numbers, or tuples), while values can be of any data type and can be duplicated.
+Syntax:
+
+my_dict = {
+"key1": "value1",
+"key2": "value2",
+"key3": "value3"
+}
+
+
+
+-----
+file operations
+-----
+
+Python provides built-in functions for file handling, allowing you to create, read, write, and delete files. File operations are done using the open() function, which allows you to work with files in different modes, such as reading (r), writing (w), and appending (a).
+Basic File Handling Workflow:
+-	Open a file using open().
+-	Read or write to the file.
+-	Close the file using close() to free up system resources.
